@@ -1,11 +1,15 @@
 //Global object
 
-//console.log(global);
+// console.log(global);
 
-setTimeout(()=> {
-  console.log('in the timeout');
-}, 30000);
+// setTimeout(()=> {
+//   console.log('in the timeout');
+//   clearInterval(int);
+// }, 30000);
 
-const int = setInterval(() => {
-  console.log ('in the interval')
-}, 1000);
+// const int = setInterval(() => {
+//   console.log ('in the interval');
+// }, 1000);
+
+// console.log(_dirname);
+// console.log(_filename);
